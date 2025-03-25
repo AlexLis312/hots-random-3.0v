@@ -2,7 +2,7 @@
   "name": "hots",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://username.github.io/hots-random-3.0v",
+  "homepage": "https://username.github.io/hots",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
